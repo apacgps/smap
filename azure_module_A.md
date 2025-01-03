@@ -3,12 +3,9 @@
 
 # Module A
 
-90%
-
 ## Strategy & FinOps
 
-color
-### Customer A
+### Customer 
 
 ##### [Evidence][tt_ev]
 
