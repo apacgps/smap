@@ -1,15 +1,20 @@
+
+
 # Module A
 
-## Strategy & FinOps
+## <span style='color:lime'> Strategy & FinOps </span>
 
-### Customer 
+### CPF
 
 ##### [Evidence][tt_ev]
 
-* [x] Strategy review of customer needs
-* Partner recommendation
+###### <span style='color:yellow'>Strategy review of customer needs</span>
 
-### Customer B
+
+
+###### Partner recommendation
+
+### IRAS
 
 ##### [Evidence][tt_ev]
 
@@ -21,7 +26,7 @@
 
 ### Cloud Adoption Plan
 
-#### Customer A
+#### CPF
 
 ##### [Evidence][tt_ev]
 
@@ -40,7 +45,7 @@
 
 ### Skilling Plan
 
-#### Singtel
+#### CPF
 
 ##### [Skilling Plan][tt_ev]
 
@@ -59,7 +64,7 @@
 
 ## Environment Readiness and Azure Landing Zone
 
-### Customer A
+### CPF
 
 #### [Bicep/Terraform](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation-options#implementation-options)
 
@@ -77,7 +82,7 @@
 
 ## Governance
 
-### Customer A
+### CPF
 
 ###### [Evidence][tt_ev]
 * [Azure Policy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/resources/tools-templates#govern)
@@ -88,7 +93,7 @@
 
 ## Manage
 
-### Customer A
+### CPF
 #### [Evidence][tt_ev]
 
 * *Azure Monitor*
