@@ -38,8 +38,8 @@
 * _Exam History_
 ##### Evidence of full-time employment
 ## Assess
-### Customer A
-#### [Evidence (2 of the following using GitHub to Azure)][tt_ev]
+### Customer A Environment Assessment
+#### [Assessment include (2 of the following using GitHub to Azure)][tt_ev]
 * _DevOps best practices_
 * _Current state assessment and capability/maturity assessment model_
 * _Target state definition_
@@ -49,29 +49,33 @@
 * _Test Cases_
 * _Assessment/Approval Gates_
 * _Infrastructure as Code_
+#### Accepted Documentation
+* Assessment checklists
+* Templates
+* Questionnaires
+* Project plans
+
 ### <span style="background-color:silver; color:black"> 📝 Partners without active Kubernentes / Migrate Enterprise Apps need 2 more customers (these additional 2 doesn't have to use GitHub)</span>
 
-
-
-
 ## Design
-### Customer A
-#### [Evidence][tt_ev]
-* Current DevOps and source code state
-* Migration or modernization approach
-* Proposed DevOps automation for application code
-* Proposed Infrastructure-as-code management
-* Code security and sharing
-* Learning and DevOps feedback loop
+### Customer A Solution Design
+#### [Demonstrate (3 of the following using GitHub to Azure)](tt_ev)
+* _Current DevOps and source code state_
+* _Migration or modernization approach_
+* _Proposed DevOps automation for application code_
+* _Proposed Infrastructure-as-code management_
+* _Code security and sharing_
+* _Learning and DevOps feedback loop_
 
-### Customer B
-#### [Evidence][tt_ev]
-* Current DevOps and source code state
-* Migration or modernization approach
-* Proposed DevOps automation for application code
-* Proposed Infrastructure-as-code management
-* Code security and sharing
-* Learning and DevOps feedback loop
+#### Acceptable Documentation: 
+* Design document
+* Project plan
+* Functional specifications
+* Architectural diagram
+* Automated tooling reports
+* Physical and Logical diagrams
+
+### <span style="background-color:silver; color:black">📝 Partners without active Kubernentes / Migrate Enterprise Apps need 2 more customers (these additional 2 doesn't have to use GitHub)</span>
 
 ## Delivery
 ### Customer A
