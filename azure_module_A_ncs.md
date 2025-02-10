@@ -2,16 +2,19 @@
 
 # Module A
 
-## Strategy & FinOps
+## <span style='color:lime'> Strategy & FinOps </span>
 
 ### CPF
 
 ##### [Evidence][tt_ev]
 
-* Strategy review of customer needs
-* Partner recommendation
+###### <span style='color:yellow'>Strategy review of customer needs</span>
 
-### Customer B
+
+
+###### Partner recommendation
+
+### IRAS
 
 ##### [Evidence][tt_ev]
 

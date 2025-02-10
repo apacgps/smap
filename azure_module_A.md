@@ -8,7 +8,7 @@
 
 ##### [Evidence][tt_ev]
 
-* Strategy review of customer needs
+* [x] Strategy review of customer needs
 * Partner recommendation
 
 ### Customer B
